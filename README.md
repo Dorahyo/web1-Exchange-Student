@@ -1,2 +1,1 @@
-# web1-Exchange-Student-
-Let's Start!
+# web1-Exchange-Student
